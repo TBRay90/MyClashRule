@@ -1,0 +1,3 @@
+payload:
+  # > MyRule
+  - DOMAIN-SUFFIX,youdao.com
